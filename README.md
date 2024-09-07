@@ -4,9 +4,9 @@ Welcome to the **Personal and Professional Development Guide**! This repository 
 
 ## Table of Contents
 
-1. [Goal Setting and Personal Development Plans](#1-goal-setting-and-personal-development-plans)
-2. [Time Management Techniques](#2-time-management-techniques)
-3. [Growth Mindset and Continuous Learning](#3-growth-mindset-and-continuous-learning)
+1. [Goal Setting and Personal Development Plans](goal-setting-and-personal-development-plans.md)
+2. [Time Management Techniques](time-management.md)
+3. [Growth Mindset and Continuous Learning](continuous-learning.md)
 4. [Networking and Building Relationships](#4-networking-and-building-relationships)
 5. [Emotional Intelligence (EQ)](#5-emotional-intelligence-eq)
 6. [Public Speaking and Communication Skills](#6-public-speaking-and-communication-skills)
