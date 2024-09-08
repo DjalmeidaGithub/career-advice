@@ -200,4 +200,6 @@ For any questions or suggestions, please open an issue or contact us directly.
 
 Happy learning and growing!
 
+More at [diamantinoalmeida.com](https://diamantinoalmeida.com/)
+
 
